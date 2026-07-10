@@ -57,24 +57,11 @@
 
 ### 📌 Featured Projects
 
-- **MarketPulse**-E-Commerce Predictive Intelligence Platform using XGBoost, LightGBM
-- **LesionIQ**-Skin Lesion Diagnosis System using OpenCV, PyTorch, CNN, PCA & Random Forest
-- **IntelliMeet**-AI meeting Assisstance using LangGraph, LangChain, Groq,Whisper, ChromaDB
+- **MarketPulse**: E-Commerce Predictive Intelligence Platform using XGBoost, LightGBM
+- **LesionIQ**: Skin Lesion Diagnosis System using OpenCV, PyTorch, CNN, PCA & Random Forest
+- **IntelliMeet**: AI meeting Assisstance using LangGraph, LangChain, Groq,Whisper, ChromaDB
 - **LangChain Chatbot with Llama 2 & Ollama**-A locally-running AI chatbot built with LangChain, Streamlit, and Llama 2 via Ollama — no cloud APIs or OpenAI key required.
-- **Language Translation API using LangChain LCEL & Groq**-A simple Language Translation application built using LangChain Expression Language (LCEL), Groq Llama 3.3 70B, FastAPI, and LangServe.
-- **Message History Chatbot**--A conversational chatbot built with LangChain and Groq's Llama 3.3 70B model that remembers conversation context across multiple turns using session-based chat history. The project demonstrates how to build stateful conversations, manage multi-language responses, and control context window size through message trimming.
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
+- **Language Translation API using LangChain LCEL & Groq**: A simple Language Translation application built using LangChain Expression Language (LCEL), Groq Llama 3.3 70B, FastAPI, and LangServe.
+- **Message History Chatbot**: A conversational chatbot built with LangChain and Groq's Llama 3.3 70B model that remembers conversation context across multiple turns using session-based chat history. The project demonstrates how to build stateful conversations, manage multi-language responses, and control context window size through message trimming.
 
 ---
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate!</i></p>
