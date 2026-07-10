@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Nidhi Tiwari 👋</h1>
 
-<h3 align="center">AI Engineer | Data Scientist | LLM & Machine Learning Enthusiast</h3>
+<h3 align="center"> Data Scientist |AI& Machine Learning Enthusiast</h3>
 
 <p align="center">
   Building intelligent AI applications that solve real-world problems using Large Language Models, Machine Learning, and modern AI frameworks.
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/nidhitiwari23/)">
+  <a href="https://www.linkedin.com/in/nidhitiwari23/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nidhitiwari23904@gmail.com">
@@ -59,10 +59,10 @@
 
 - **MarketPulse**-E-Commerce Predictive Intelligence Platform using XGBoost, LightGBM
 - **LesionIQ**-Skin Lesion Diagnosis System using OpenCV, PyTorch, CNN, PCA & Random Forest
--**IntelliMeet**-AI meeting Assisstance using LangGraph, LangChain, Groq,Whisper, ChromaDB
--**LangChain Chatbot with Llama 2 & Ollama**-A locally-running AI chatbot built with LangChain, Streamlit, and Llama 2 via Ollama — no cloud APIs or OpenAI key required.
--**Language Translation API using LangChain LCEL & Groq**-A simple Language Translation application built using LangChain Expression Language (LCEL), Groq Llama 3.3 70B, FastAPI, and LangServe.
--**Message History Chatbot**--A conversational chatbot built with LangChain and Groq's Llama 3.3 70B model that remembers conversation context across multiple turns using session-based chat history. The project demonstrates how to build stateful conversations, manage multi-language responses, and control context window size through message trimming.
+- **IntelliMeet**-AI meeting Assisstance using LangGraph, LangChain, Groq,Whisper, ChromaDB
+- **LangChain Chatbot with Llama 2 & Ollama**-A locally-running AI chatbot built with LangChain, Streamlit, and Llama 2 via Ollama — no cloud APIs or OpenAI key required.
+- **Language Translation API using LangChain LCEL & Groq**-A simple Language Translation application built using LangChain Expression Language (LCEL), Groq Llama 3.3 70B, FastAPI, and LangServe.
+- **Message History Chatbot**--A conversational chatbot built with LangChain and Groq's Llama 3.3 70B model that remembers conversation context across multiple turns using session-based chat history. The project demonstrates how to build stateful conversations, manage multi-language responses, and control context window size through message trimming.
 
 ### 📊 GitHub Stats
 
